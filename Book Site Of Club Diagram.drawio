@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="uC4kE36gMDrfhODTT9Ck">
+    <mxGraphModel dx="934" dy="615" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qopKs_d4Tqq9zEEyzeCW-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="390" width="650" x="70" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qopKs_d4Tqq9zEEyzeCW-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Heading" vertex="1">
+          <mxGeometry height="60" width="340" x="70" y="95" as="geometry" />
+        </mxCell>
+        <mxCell id="qopKs_d4Tqq9zEEyzeCW-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Image" vertex="1">
+          <mxGeometry height="60" width="120" x="620" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="qopKs_d4Tqq9zEEyzeCW-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Intro About Club" vertex="1">
+          <mxGeometry height="60" width="190" x="750" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qopKs_d4Tqq9zEEyzeCW-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Header.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Info&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Info About Club" vertex="1">
+          <mxGeometry height="70" width="650" x="70" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="qopKs_d4Tqq9zEEyzeCW-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Navigation Bar" vertex="1">
+          <mxGeometry height="60" width="510" x="70" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="qopKs_d4Tqq9zEEyzeCW-7" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="About Teachers.&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Book Reviews&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; Opening Timing" vertex="1">
+          <mxGeometry height="190" width="510" x="70" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="qopKs_d4Tqq9zEEyzeCW-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Contact Information&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Adress" vertex="1">
+          <mxGeometry height="70" width="510" x="70" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="qopKs_d4Tqq9zEEyzeCW-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" value="Best&amp;nbsp; &amp;nbsp;Seller&amp;nbsp; &amp;nbsp;Books" vertex="1">
+          <mxGeometry height="136.64" width="316.88" x="491.57" y="252.81" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
