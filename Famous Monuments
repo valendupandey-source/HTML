@@ -1,0 +1,14 @@
+<html>
+ <head>
+    <body>
+        <h1> Famous Monuments </h1>
+       <h3> <ul> Taj Mahal </ul>
+        <ul> Statue of Liberty </ul>
+        <ul> Great Wall of China</ul>
+        <ul> Effile Tower </ul>
+        <ul> Pyramids of Giza </ul> </h3>
+       <h4> <strong>Developed in HTML </strong></h4>
+    </body>
+ </head>   
+<html>
+
