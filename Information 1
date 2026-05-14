@@ -1,0 +1,13 @@
+<html> 
+    <head>
+        <body>
+            <h1>  What is Python ?</h1>
+            <h4> Python is a popular, high level language, interpretated programming language.
+                It is known for its simple and readable syntax.
+            </h4>
+            <h2>  Easy to learn :  <h4> Its syntax is simmilar to English, making it beginner friendly.</h4></h2>
+            <h2> Large Ecosystem : <h4> It boosts an extentive standard library and numerous third - party packages </h4></h2>
+            <h3> Link : Python.org</h3>
+        </body>
+    </head>
+</html>
