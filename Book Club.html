@@ -15,10 +15,15 @@
         #intro {
             background-color: blueviolet;
             font-family: Arial, Helvetica, sans-serif;
+            text-align: center;
         }
         .main-section-content h2 {
             background-color: darkolivegreen;
             font-family: Arial, Helvetica, sans-serif;
+            padding: 5px;
+            font-size: 24px;
+            text-align: center;
+            margin-bottom: 50px;
         }
         #bestsellers,
         footer {
@@ -45,6 +50,7 @@
             color: white;
             font-size: 50px;
             font-family: Arial, Helvetica, sans-serif;
+            margin: 30px;
          }
          
 h2,
@@ -60,8 +66,11 @@ tr:last-child{
     color: blue;
 }
 
-    .teacher info {
+    .teacher-info {
         border-radius: 5px;
+        margin: 10px;
+        width: 400px;
+        box-shadow: 6px 0px 21px --3px #333333;
     }
     button{
         background-color: red;
@@ -89,18 +98,41 @@ h3 {
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: underline;
 }
-
+.teacher-info div:last-child {
+    margin-left: 50px;
+}
+.main-section-content {
+    padding: 20px;
+}
+table {
+    margin: auto;
+}
+th,
+td {
+    padding: 10px;
+}
+footer{
+    padding: 20px;
+}
+#bestsellers h2 {
+    padding: 20px;
+}
+ol li {
+    margin-bottom: 20px;
+}
       </style>  
     </head>
     <body>
         <div class = "grid container">
             <header> 
+                <div id="intro">
+               
                 <h1> 
                     Mount Carmel Book Club 
                 </h1>
                 <image src = " ./public/img.jpg " alt = " Row of Book">
                 
-            </header>
+            </header> </div>
         <h1> Mount Carmel Book Club</h1>
         <img src = "Artyq.jpeg" alt = "Lists of Books" width = "380">
         <nav>
@@ -115,11 +147,16 @@ https://www.mtg.in" >Online resources</a></li>
 </ul> </nav>
         <h2> Welcome to Mount Carmel Book Club</h2>
         <p> The mount carmel book club is an online community of book readers in Mount Carmel School</p>
+        <div id="main section">
+            <div class="main-section-content">
         <h2> Meet our teachers </h2>
+        <div id="teacher">
+            <div class="teacher-info"></div>
         <h3> Mrs. Emma </h3>
         <p> She teaches elementry school kids. She has a bachelor's degree in Elementry Education </p>
         <h3>    Mrs. Caroline </h3>
         <p> She teaches secondary school and high school kids. She has a masters of arts.</p>
+        </div> </div>
         <h2>Book Review</h2>
         <h3> Alice in the wonderland</h3>
         <strong> Amit </strong><q>I loved reading this book. A must read for everyone. </q>
