@@ -10,8 +10,22 @@
 </head>
 
 <body>
-    <header>
-        <h1>Indian Cuisines</h1>
+    
+        <header>
+            <h1>Indian Cuisines</h1>
+            <div>
+
+            </div>
+  
+                <img src="images/cover.jpg">
+                <p id="description">The traditional food of India has been widely appreciated for its fabulous use of herbs and
+                    spices. Indian cuisine is known for its large assortment dishes. The cooking style varies from region to
+                    region and is largely divided into South Indian & North Indian cuisine. India is quite famous for its
+                    diverse multi cuisine available in a large number of restaurants and hotel resorts, which is reminiscent of
+                    unity in diversity.</p>
+            </div>
+        </header>
+
         <div>
            <style>
 body{ 
@@ -21,21 +35,33 @@ body{
 header {
     background-color: blueviolet;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 nav { 
     background-color: red;
     font-family: sans-serif;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
     
 }
 #intro {
     background-color: aquamarine;
     font-family: 'Times New Roman', Times, serif;
+    position: static;
     
 }
 .main-section-content h2 {
     background-color: hotpink;
     font-family: Georgia, 'Times New Roman', Times, serif;
-  padding: 20px;  
+  padding: 20px; 
+  
 }
 button {
     font-size: 30px;
@@ -73,6 +99,7 @@ button {
                 diverse multi cuisine available in a large number of restaurants and hotel resorts, which is reminiscent
                 of
                 unity in diversity.</p>
+                
         </div>
     </header>
     <nav>
@@ -195,6 +222,14 @@ button {
         <p><span>Date: </span>31/5/2026</p>
 
     </footer>
+    #done some edit in the div class code
+    <div class="parent-element" style="position:absolute; width: 200px; height: 200px; border: 1px solid;">
+        <div class="child-element"
+            style="position:relative; width: 1000px; height: 1000px; background-color: red; color: grey; top: 100px; ;">
+            
+        </div>
+    </div>
+
 </body>
 
 </html>
