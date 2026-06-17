@@ -8,7 +8,7 @@
         header {
             background-color: red;
             display: flex;
-            justify-content: space space-between;
+            justify-content: space-between;
             align-items: center;
         }
         nav
@@ -160,6 +160,35 @@ ol li {
     left: 40%;
     width: 40px;
 }
+header {
+     grid-area: header;
+}
+nav {
+    grid-area: nav;
+}
+#intro {
+    grid-area: intro;
+}
+#bestsellers {
+    grid-area: bestsellers;
+}
+#main-section {
+    grid-area: main-section;
+}
+footer{
+    grid-area: footer;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    grid-template-areas: 
+    "header header header header intro"
+    "nav nav nav nav intro"
+    "main-section main-section main-section main-section bestsellers"
+    "footer footer footer footer footer";
+    
+}
+ 
 
       </style>  
     </head>
