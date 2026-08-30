@@ -26,6 +26,59 @@
                 background-color: blueviolet;
                 color: black;
             }
+            .pimg1, .pimg2, .pimg3 {
+                position: relative;
+                opacity: 0.70;
+                background-position: center;
+                background-size: cover;
+                background-repeat: no-repeat;
+                background-attachment: fixed;
+            }
+            .pimg1 {
+                background-image: url('Scenery.jepg');
+                min-height: 100%;
+            }
+            .pimg2 {
+                background-image: url('Scenery2.jepg');
+                min-height: 400px;
+            }
+            .pimg3 {
+                background-image: url('Scenery3.jepg');
+                min-height: 400px;
+            }
+            .section {
+                text-align: center;
+                padding: 50px 80px;
+            }
+            .section-light{
+                background-color: black;
+                color: whitesmoke;
+            }
+            .section-dark{
+                background-color: whitesmoke;
+                color: black;
+            }
+            .ptext{
+                position: absolute;
+                top: 50%;
+                color: darkblue;
+                font-size: 27px;
+                letter-spacing: 8px;
+                text-transform: uppercase;
+            }
+            .ptext .border {
+                background-color: blanchedalmond;
+                color: lawngreen;
+                padding: 20px;
+            }
+            .ptext .border.trans {
+                background-color: transparent;
+            }
+            @media(max-width: 568px){
+                .pimg1, .pimg2, .ping3 {
+                    background-attachment: scroll;
+                }
+            }
         </style>
     </head>
     <body>
